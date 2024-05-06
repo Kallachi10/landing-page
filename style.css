@@ -88,9 +88,11 @@ button{
     display:flex;
 }
 .sec1{
+    display:flex;
+    flex-direction:column;
     padding:0px;
     margin:0px;
-    height:100vh;
+    height:600px;
     background:#1F2937;
 
 }
